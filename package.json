@@ -1,0 +1,20 @@
+{
+  "name": "test-libp2p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/zhaoyiming0803/test-libp2p",
+  "license": "ISC",
+  "dependencies": {
+    "libp2p": "^0.35.6"
+  },
+  "devDependencies": {
+    "libp2p-mplex": "^0.10.5",
+    "libp2p-noise": "^4.0.0",
+    "libp2p-tcp": "^0.17.2",
+    "multiaddr": "^10.0.1"
+  }
+}
